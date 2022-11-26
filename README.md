@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a software developer
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Machine learning 
 - 📫 How to reach me athiramchandran90@gmail.com
 
